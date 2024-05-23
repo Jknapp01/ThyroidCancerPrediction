@@ -4,16 +4,16 @@ This notebook aims to predict the recurrence of well differentiated Thyroid canc
 ​
 What is Thyroid cancer? \
 ​
-**Definition:** *Thyroid cancer is a type of malignancy that originates in the thyroid gland, a small butterfly-shaped gland located at the base of the neck. This cancer can present in various forms, including papillary, follicular, medullary, and anaplastic thyroid cancer, each with distinct characteristics and levels of aggressiveness. Papillary thyroid cancer is the most common and typically has a favorable prognosis. Symptoms of thyroid cancer may include a lump in the neck, trouble swallowing, hoarseness, and swollen lymph nodes. Risk factors encompass exposure to radiation, a family history of thyroid cancer, and certain genetic conditions. Treatment often involves a combination of surgery, radioactive iodine therapy, and, in some cases, thyroid hormone therapy or targeted drug therapy. Early detection and advances in treatment have significantly improved the prognosis for most thyroid cancer patients.*
+**Definition:** *Thyroid cancer is a type of malignancy that originates in the thyroid gland, a small butterfly-shaped gland located at the base of the neck. This cancer can present in various forms, including papillary, follicular, medullary, and anaplastic thyroid cancer, each with distinct characteristics and levels of aggressiveness. Papillary thyroid cancer is the most common and typically has a favorable prognosis. Symptoms of thyroid cancer may include a lump in the neck, trouble swallowing, hoarseness, and swollen lymph nodes. Risk factors encompass exposure to radiation, a family history of thyroid cancer, and certain genetic conditions. Treatment often involves a combination of surgery, radioactive iodine therapy, and, in some cases, thyroid hormone therapy or targeted drug therapy. Early detection and advances in treatment have significantly improved the prognosis for most thyroid cancer patients.* \
 ​
-Work like this serves to increase the chances of early detection of recurrence. It is important for patients to understand the likelihood of recurrence so they can adjust their lifestyle and follow-up with their healthcare provider accordingly.
+Work like this serves to increase the chances of early detection of recurrence. It is important for patients to understand the likelihood of recurrence so they can adjust their lifestyle and follow-up with their healthcare provider accordingly. \
 ​
-**Some information about the dataset:**
+**Some information about the dataset:** \
 ​
-Dataset Characteristics: Tabular\
-Feature Type: Real, Categorical, Integer\
-Features: 16\
-Associated Tasks: Classification
+Dataset Characteristics: Tabular \
+Feature Type: Real, Categorical, Integer \
+Features: 16 \
+Associated Tasks: Classification \
 ​
 **Variables:**
 * Age: Feature, Integer
