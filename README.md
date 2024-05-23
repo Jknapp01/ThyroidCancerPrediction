@@ -1,8 +1,8 @@
 # ThyroidCancerPrediction
 
-This notebook aims to predict the recurrence of well differentiated Thyroid cancer. 
+This notebook aims to predict the recurrence of well differentiated Thyroid cancer. \
 ​
-What is Thyroid cancer? 
+What is Thyroid cancer? \
 ​
 **Definition:** *Thyroid cancer is a type of malignancy that originates in the thyroid gland, a small butterfly-shaped gland located at the base of the neck. This cancer can present in various forms, including papillary, follicular, medullary, and anaplastic thyroid cancer, each with distinct characteristics and levels of aggressiveness. Papillary thyroid cancer is the most common and typically has a favorable prognosis. Symptoms of thyroid cancer may include a lump in the neck, trouble swallowing, hoarseness, and swollen lymph nodes. Risk factors encompass exposure to radiation, a family history of thyroid cancer, and certain genetic conditions. Treatment often involves a combination of surgery, radioactive iodine therapy, and, in some cases, thyroid hormone therapy or targeted drug therapy. Early detection and advances in treatment have significantly improved the prognosis for most thyroid cancer patients.*
 ​
